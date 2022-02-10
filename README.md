@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here's GitHub repo](https://github.com/NElnour/nft-preview-component)
+- Live Site URL: [here it is deployed on GitHub pages!](https://nelnour.github.io/nft-preview-component/)
 
 ## My process
 
